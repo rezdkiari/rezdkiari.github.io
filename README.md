@@ -32,4 +32,9 @@ title, head, header, body, article, section, href, div.
 Nama saya Rezdki Ari Wardhana, biasa dipanggil ari. Saya bergabung di Hacktiv8 karena saya tertarik untuk mempelajari ilmu programming dimana industri ini sedang berkembang pesat dan saya tertarik untuk menjadi bagian dari industri tersebut. Sebelumnya saya tidak memiliki background IT sama sekali dan semoga Hacktiv8 dapat membantu saya untuk menjadi seorang full stack developer handal.
 </p>
 
+<h1>Future Plan</h1>
+<p>
+Jika saya berhasil lulus dari Hacktiv8, saya ingin bekerja sebagai programmer di suatu perusahaan sembari mencoba membangun aplikasi sendiri.
+</p>
+
 </body>
