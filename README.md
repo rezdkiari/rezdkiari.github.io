@@ -5,23 +5,10 @@ About this site:
 Saya berencana ingin membuat website suatu perusahaan yang berisikan tentang profil dan ragam produk dari perusahaan tersebut.
 
 Daftar tag HTML:
-* <html>
-* <title>
-* <head>
-* <body>
-* <p>
-* <table>
-* <article>
-* <section>
+<html>, <title>, <head>, <body>, <p>, <table>, <article>, <section>, <ul>, <li>
 
 Daftar tag CSS:
-* background-image
-* padding
-* text-align
-* float
-* margin
-* position
-* overflow
+background-image, padding, text-align, float, margin, position, overflow, border.
 
 About Me:
 
