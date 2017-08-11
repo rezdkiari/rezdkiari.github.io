@@ -1,0 +1,90 @@
+header {
+  background: white;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  overflow: hidden;
+  padding: 5px;
+  border-bottom: 1px solid;
+}
+
+header h1 {
+  float: left;
+}
+
+.logo-text {
+  padding-top: 20px;
+}
+
+body {
+  background-image: url("vegetables.jpeg");
+  padding-top: 200px;
+  padding-bottom: 0px;
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.image-center {
+  text-align: center;
+}
+
+.images {
+  margin: 0 auto;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin-left: 300px;
+}
+
+.logo {
+  padding: 5px;
+  height: 80px;
+  width: 100px;
+  padding-top: 15px;
+}
+
+section h1 {
+  text-align: center;
+  padding-bottom: 35px;
+  font-size: 35px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  padding: 5px 5px;
+  margin-right: 20px;
+  font-size: 12pt;
+}
+
+#article {
+  background-color: white;
+  width: 825px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+  padding: 35px 35px;
+  text-align: justify;
+}
+
+footer {
+  background-color: white;
+  height: 50px;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-top: 20px;
+}
