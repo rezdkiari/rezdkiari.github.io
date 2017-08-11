@@ -9,7 +9,7 @@ Saya berencana ingin membuat website suatu perusahaan yang berisikan tentang pro
 
 <h1>Daftar tag HTML:</h1>
 <p>
-<title>, <head>, <body>, <article>, <section>.
+title, head, header, body, article, section, href, div.
 </p>
 
 <h1>Daftar tag CSS:</h1>
