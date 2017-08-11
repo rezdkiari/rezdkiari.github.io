@@ -3,19 +3,13 @@
 </head>
 <body>
 <h1>About this site:</h1>
-<p>Saya berencana ingin membuat website suatu perusahaan yang berisikan tentang profil dan ragam produk dari perusahaan tersebut.</p>
+<p>
+Saya berencana ingin membuat website suatu perusahaan yang berisikan tentang profil dan ragam produk dari perusahaan tersebut.
+</p>
 
 <h1>Daftar tag HTML:</h1>
 <p>
-<ul>
-<li><title></li>
-<li><head></li>
-<li><body></li>
-<li><p></li>
-<li><table></li>  
-<li><article></li>
-<li><section></li>
-</ul>
+<title>, <head>, <body>, <article>, <section>.
 </p>
 
 <h1>Daftar tag CSS:</h1>
@@ -34,6 +28,8 @@
 
 <h1>About Me:</h1>
 
-<p>Nama saya Rezdki Ari Wardhana, biasa dipanggil ari. Saya bergabung di Hacktiv8 karena saya tertarik untuk mempelajari ilmu programming dimana industri ini sedang berkembang pesat dan saya tertarik untuk menjadi bagian dari industri tersebut. Sebelumnya saya tidak memiliki background IT sama sekali dan semoga Hacktiv8 dapat membantu saya untuk menjadi seorang full stack developer handal.</p>
+<p>
+Nama saya Rezdki Ari Wardhana, biasa dipanggil ari. Saya bergabung di Hacktiv8 karena saya tertarik untuk mempelajari ilmu programming dimana industri ini sedang berkembang pesat dan saya tertarik untuk menjadi bagian dari industri tersebut. Sebelumnya saya tidak memiliki background IT sama sekali dan semoga Hacktiv8 dapat membantu saya untuk menjadi seorang full stack developer handal.
+</p>
 
 </body>
